@@ -62,8 +62,3 @@
 - 🏀 **Hobbies:** NBA Basketball, Karaoke
 - 🏆 **Achievements:** National-level recognition in Calligraphy & Basketball
 
----
-
-<p align="center">
-  <em>🚀 Always learning, always improving. 🚀</em>
-</p>
