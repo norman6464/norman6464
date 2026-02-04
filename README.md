@@ -62,7 +62,7 @@ JWT Authentication, Prometheus, Grafana
 ## 📍 About Me
 
 - 🎓 **School:** Fukuoka Design & Technology College (Graduating March 2028)
-- 🎯 **Career Goal:** Become a Site Reliability Engineer (SRE) who designs and operates reliable, scalable, and observable systems
+- 🎯 **Growth Vision:** Become a Site Reliability Engineer (SRE) who designs and operates reliable, scalable, and observable systems
 - 📍 **Location:** Fukuoka, Japan
 - 🏀 **Hobbies:** NBA Basketball, Karaoke
 - 🏆 **Achievements:** National-level recognition in Calligraphy & Basketball
