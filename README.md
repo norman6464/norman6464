@@ -4,12 +4,12 @@
 
 <h3>✨ Languages</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,typescript,go,python,js&theme=light" alt="Languages">
+  <img src="https://skillicons.dev/icons?i=java,typescript,go,js,php&theme=light" alt="Languages">
 </a>
 
 <h3>🚀 Frameworks & Libraries</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=spring,react,nextjs&theme=light" alt="Frameworks">
+  <img src="https://skillicons.dev/icons?i=spring,react,laravel&theme=light" alt="Frameworks">
 </a>
 
 <h3>☁️ Cloud Platforms</h3>
@@ -50,7 +50,7 @@
 ### FreStyle - Communication Improvement App
 コミュニケーション改善アプリ
 
-**Tech Stack:** Spring Boot, React, AWS (ECS, Lambda, DynamoDB, Cognito), JWT Authentication
+**Tech Stack:** Spring Boot, Laravel, AWS (ECS, Lambda, DynamoDB, Cognito), JWT Authentication
 
 ---
 
