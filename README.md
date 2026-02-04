@@ -20,6 +20,11 @@
   <img src="https://skillicons.dev/icons?i=docker,terraform,kubernetes,githubactions&theme=light" alt="DevOps">
 </a>
 
+<h3>📊 Monitoring & Logging</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus&theme=light" alt="Monitoring">
+</a>
+
 <h3>💾 Databases</h3>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=dynamodb,mysql,postgres&theme=light" alt="Databases">
@@ -48,7 +53,9 @@
 ### FreStyle - Communication Improvement App
 コミュニケーション改善アプリ
 
-**Tech Stack:** Spring Boot, Laravel, AWS (ECS, Lambda, DynamoDB, Cognito), JWT Authentication
+**Tech Stack:**  
+Spring Boot, Laravel, AWS (ECS, Lambda, DynamoDB, Cognito),  
+JWT Authentication, Prometheus, Grafana
 
 ---
 
@@ -59,4 +66,3 @@
 - 📍 **Location:** Fukuoka, Japan
 - 🏀 **Hobbies:** NBA Basketball, Karaoke
 - 🏆 **Achievements:** National-level recognition in Calligraphy & Basketball
-
