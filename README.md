@@ -1,5 +1,3 @@
-<h1 align="center">Hi there 👋 I'm Takuma Kawano</h1>
-
 ## 🛠️ Tech Stack
 
 <h3>✨ Languages</h3>
