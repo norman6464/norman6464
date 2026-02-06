@@ -50,12 +50,25 @@
 
 ## 🌟 Featured Projects
 
-### FreStyle - Communication Improvement App
-コミュニケーション改善アプリ
+### [FreStyle](https://github.com/norman6464/FreStyle) - Communication Improvement App
+AIを活用したコミュニケーション分析アプリ
 
-**Tech Stack:**  
-Spring Boot, Laravel, AWS (ECS, Lambda, DynamoDB, Cognito),  
-JWT Authentication, Prometheus, Grafana
+テキストと対面でのコミュニケーションの認識ギャップをAIが分析し、改善のフィードバックを提供するチャットアプリケーション
+
+**Tech Stack:**
+React, Spring Boot, AWS (ECS, Lambda, DynamoDB, Cognito, S3, CloudFront),
+JWT Authentication, Docker, GitHub Actions
+
+---
+
+### [DevSync](https://github.com/norman6464/DevSync) - Motivation Sharing Platform for Engineers
+エンジニアのためのモチベーション共有プラットフォーム
+
+GitHub・Zenn・Qiitaの活動を共有し、お互いの成長を可視化してモチベーションを高め合うプラットフォーム
+
+**Tech Stack:**
+Go, React, TypeScript, gRPC, PostgreSQL, Redis,
+AWS EKS, Terraform, ArgoCD, OpenTelemetry, Prometheus, Grafana
 
 ---
 
