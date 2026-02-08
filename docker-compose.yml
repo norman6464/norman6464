@@ -1,0 +1,11 @@
+services:
+  badge-generator:
+    build:
+      context: ./badges
+      dockerfile: Dockerfile
+    volumes:
+      - ./badges/output:/app/output
+      - ./badges/config.yaml:/app/config.yaml:ro
+    environment:
+      - CONFIG_PATH=/app/config.yaml
+      - OUTPUT_DIR=/app/output
