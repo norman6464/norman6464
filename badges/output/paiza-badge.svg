@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="120" viewBox="0 0 320 120">
+  <defs>
+    <linearGradient id="bg-paiza" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#16213e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accent-paiza" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#43a047;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#43a047;stop-opacity:0.6" />
+    </linearGradient>
+  </defs>
+  <rect width="320" height="120" rx="10" fill="url(#bg-paiza)" />
+  <rect x="0" y="0" width="6" height="120" rx="3" fill="url(#accent-paiza)" />
+  <text x="24" y="32" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#8892b0" font-weight="600">paiza</text>
+  <text x="24" y="58" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#ccd6f6" font-weight="700">スキルチェック</text>
+  <text x="24" y="90" font-family="Segoe UI, Arial, sans-serif" font-size="36" fill="#43a047" font-weight="800">Bランク</text>
+  <text x="24" y="108" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#495670">更新日: 2026-02-08</text>
+</svg>

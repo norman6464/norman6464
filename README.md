@@ -48,6 +48,18 @@
 
 ---
 
+## 🏅 Competitive Programming
+
+<p align="center">
+  <img src="./badges/output/atcoder-badge.svg" alt="AtCoder Rating" height="120">
+  &nbsp;&nbsp;
+  <img src="./badges/output/paiza-badge.svg" alt="paiza Rank" height="120">
+</p>
+
+> GitHub Actionsにより毎週自動更新されます。手動更新は `docker compose up -d --build` で実行できます。
+
+---
+
 ## 🌟 Featured Projects
 
 ### [FreStyle](https://github.com/norman6464/FreStyle) - Communication Improvement App
