@@ -1,0 +1,42 @@
+name: バッジ自動更新
+
+on:
+  schedule:
+    # 毎週月曜日 09:00 (JST) に実行
+    - cron: '0 0 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-badges:
+    runs-on: ubuntu-latest
+    steps:
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v4
+
+      - name: Go環境をセットアップ
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.24'
+
+      - name: 依存関係をインストール
+        working-directory: ./badges
+        run: go mod download
+
+      - name: バッジを生成
+        working-directory: ./badges
+        run: go run main.go
+
+      - name: 変更をコミット・プッシュ
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add badges/output/
+          if git diff --staged --quiet; then
+            echo "バッジに変更はありません"
+          else
+            git commit -m "chore: AtCoder・paizaバッジを自動更新"
+            git push
+          fi
