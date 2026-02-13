@@ -5,12 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/norman6464">
-    <img height=180 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=norman6464&theme=github_dark" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/norman6464">
-    <img height=180 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=norman6464&theme=github_dark" alt="Top Langs" />
-  </a>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/norman6464/norman6464/main/profile/stats.svg" alt="GitHub Stats" />
+  </p>
 </p>
 
 <p align="center">
