@@ -1,13 +1,14 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=norman6464&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/norman6464/github-readme-stats/main/profile/stats.svg" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/norman6464/github-readme-stats/main/profile/top-langs.svg" alt="Top Langs" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=norman6464&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=norman6464&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 <p align="center">
