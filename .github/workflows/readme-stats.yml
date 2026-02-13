@@ -23,6 +23,7 @@ jobs:
         with:
           USERNAME: norman6464
           THEME_NAME: github_dark
+          UTC_OFFSET: 9
 
       - name: Commit cards
         run: |
