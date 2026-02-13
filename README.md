@@ -1,3 +1,21 @@
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=norman6464&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=norman6464&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=norman6464&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=norman6464&theme=tokyo-night" alt="Activity Graph" />
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 <h3>✨ Languages</h3>
@@ -51,9 +69,10 @@
 ## 🌟 Featured Projects
 
 ### [FreStyle](https://github.com/norman6464/FreStyle) - Communication Improvement App
+
 新卒ITエンジニアのためのビジネスコミュニケーション練習アプリ
 
-顧客折衝: 障害報告、要件変更の影響説明、見積もり交渉など、顧客との難しい場面を想定したケーススタディで学べます  
+顧客折衝: 障害報告、要件変更の影響説明、見積もり交渉など、顧客との難しい場面を想定したケーススタディで学べます
 
 **Tech Stack:**
 React, Spring Boot, AWS (ECS, Lambda, DynamoDB, Cognito, S3, CloudFront),
@@ -62,6 +81,7 @@ JWT Authentication, Docker, GitHub Actions
 ---
 
 ### [DevSync](https://github.com/norman6464/DevSync) - Motivation Sharing Platform for Engineers
+
 エンジニアのためのモチベーション共有プラットフォーム
 
 GitHub・Zenn・Qiitaの活動を共有し、お互いの成長を可視化してモチベーションを高め合うプラットフォーム
