@@ -1,10 +1,10 @@
 <p align="center">
 <p align="center">
-  <img src="https://raw.githubusercontent.com/norman6464/github-readme-stats/main/profile/stats.svg" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/norman6464/norman6464/main/profile/stats.svg" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/norman6464/github-readme-stats/main/profile/top-langs.svg" alt="Top Langs" />
+  <img src="https://raw.githubusercontent.com/norman6464/norman6464/main/profile/top-langs.svg" alt="Top Langs" />
 </p>
 
 <p align="center">
