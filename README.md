@@ -1,18 +1,29 @@
 <p align="center">
-<p align="center">
-  <img src="https://raw.githubusercontent.com/norman6464/norman6464/main/profile/stats.svg" alt="GitHub Stats" />
+  <a href="https://github.com/norman6464">
+    <img height=180 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=norman6464&theme=github_dark" alt="Profile Details" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/norman6464/norman6464/main/profile/top-langs.svg" alt="Top Langs" />
+  <a href="https://github.com/norman6464">
+    <img height=180 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=norman6464&theme=github_dark" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/norman6464">
+    <img height=180 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=norman6464&theme=github_dark" alt="Top Langs" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/norman6464">
+    <img height=180 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=norman6464&theme=github_dark" alt="Most Commit Language" />
+  </a>
+  <a href="https://github.com/norman6464">
+    <img height=180 src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=norman6464&theme=github_dark&utcOffset=9" alt="Productive Time" />
+  </a>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=norman6464&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=norman6464&theme=tokyo-night" alt="Activity Graph" />
 </p>
 
 ---
