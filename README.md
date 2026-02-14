@@ -21,11 +21,6 @@
     <img height=180 src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" />
   </a>
 </p>
-
-<p align="center">
-  <img src="./github-stats/streak.svg" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## 🛠️ Tech Stack
