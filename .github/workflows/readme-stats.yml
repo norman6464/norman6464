@@ -4,10 +4,13 @@ on:
   push:
     branches:
       - main
-      - master
   schedule:
-    - cron: '0,10 * * * *'
+    - cron: '0 */6 * * *'
   workflow_dispatch:
+
+concurrency:
+  group: readme-cards
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -22,13 +25,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: norman6464
-          THEME_NAME: github_dark
           UTC_OFFSET: 9
-
-      - name: Commit cards
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add profile-summary-card-output/
-          git diff --staged --quiet || git commit -m "chore: update profile summary cards"
-          git push
+          AUTO_PUSH: true
