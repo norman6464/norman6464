@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/norman6464">
-    <img height=180 src="./github-stats/stats.svg" alt="GitHub Stats" />
+    <img height=180 src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/norman6464">
     <img height=180 src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Langs" />
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=norman6464&theme=tokyonight" alt="GitHub Streak" />
+  <img src="./github-stats/streak.svg" alt="GitHub Streak" />
 </p>
 
 ---
