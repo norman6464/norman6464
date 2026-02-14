@@ -33,29 +33,42 @@ jobs:
       - name: Download github-readme-stats card
         run: |
           mkdir -p github-stats
-          curl -s -o github-stats/stats.svg \
+          curl -s -o /tmp/stats.svg \
             "https://github-readme-stats.vercel.app/api?username=norman6464&bg_color=0d1117cc&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&custom_title=GitHub%20Stats&rank_icon=github"
-          # Verify the downloaded file is a valid SVG
-          if grep -q '<svg' github-stats/stats.svg; then
+          if grep -q '<svg' /tmp/stats.svg; then
+            cp /tmp/stats.svg github-stats/stats.svg
             echo "Stats card downloaded successfully"
           else
-            echo "Warning: Downloaded file may not be valid SVG, retrying..."
+            echo "First attempt failed, retrying in 5s..."
             sleep 5
-            curl -s -o github-stats/stats.svg \
+            curl -s -o /tmp/stats.svg \
               "https://github-readme-stats.vercel.app/api?username=norman6464&bg_color=0d1117cc&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&custom_title=GitHub%20Stats&rank_icon=github"
+            if grep -q '<svg' /tmp/stats.svg; then
+              cp /tmp/stats.svg github-stats/stats.svg
+              echo "Stats card downloaded on retry"
+            else
+              echo "Stats API unavailable, skipping stats card update"
+            fi
           fi
 
       - name: Download streak stats card
         run: |
-          curl -s -o github-stats/streak.svg \
+          curl -s -o /tmp/streak.svg \
             "https://streak-stats.demolab.com/?user=norman6464&theme=tokyonight"
-          if grep -q '<svg' github-stats/streak.svg; then
+          if grep -q '<svg' /tmp/streak.svg; then
+            cp /tmp/streak.svg github-stats/streak.svg
             echo "Streak card downloaded successfully"
           else
-            echo "Warning: Streak card may not be valid SVG, retrying..."
+            echo "First attempt failed, retrying in 5s..."
             sleep 5
-            curl -s -o github-stats/streak.svg \
+            curl -s -o /tmp/streak.svg \
               "https://streak-stats.demolab.com/?user=norman6464&theme=tokyonight"
+            if grep -q '<svg' /tmp/streak.svg; then
+              cp /tmp/streak.svg github-stats/streak.svg
+              echo "Streak card downloaded on retry"
+            else
+              echo "Streak API unavailable, skipping streak card update"
+            fi
           fi
 
       - name: Commit and push cards
