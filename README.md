@@ -1,29 +1,14 @@
 <p align="center">
-  <a href="https://github.com/norman6464">
-    <img height=180 src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/dokkiitech">
     <img height=180 src="https://githubrandmestats-git-main-dokkiitechs-projects.vercel.app/api?username=dokkiitech&bg_color=0d1117cc&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&custom_title=GitHub%20Stats" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/norman6464">
-    <img height=180 src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Langs" />
+  <a href="https://github.com/dokkiitech">
+    <img height=180 src="https://githubrandmestats-git-main-dokkiitechs-projects.vercel.app/api/top-langs/?username=dokkiitech&bg_color=0d1117cc&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&layout=compact" alt="Top Langs" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/norman6464">
-    <img height=180 src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" />
-  </a>
-  <a href="https://github.com/norman6464">
-    <img height=180 src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=norman6464&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=dokkiitech&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&background=0d1117cc" alt="GitHub Streak" />
 </p>
 
 ---
