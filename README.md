@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/norman6464">
-    <img height=180 src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" />
+  <a href="https://github.com/dokkiitech">
+    <img height=180 src="https://githubrandmestats-git-main-dokkiitechs-projects.vercel.app/api?username=dokkiitech&bg_color=0d1117cc&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&custom_title=GitHub%20Stats" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/norman6464">
     <img height=180 src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Langs" />
