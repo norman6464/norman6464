@@ -25,11 +25,26 @@ jobs:
           UTC_OFFSET: 9
           AUTO_PUSH: false
 
+      - name: Download github-readme-stats card
+        run: |
+          mkdir -p github-stats
+          curl -s -o github-stats/stats.svg \
+            "https://github-readme-stats.vercel.app/api?username=norman6464&bg_color=0d1117cc&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&custom_title=GitHub%20Stats&rank_icon=github"
+          # Verify the downloaded file is a valid SVG
+          if grep -q '<svg' github-stats/stats.svg; then
+            echo "Stats card downloaded successfully"
+          else
+            echo "Warning: Downloaded file may not be valid SVG, retrying..."
+            sleep 5
+            curl -s -o github-stats/stats.svg \
+              "https://github-readme-stats.vercel.app/api?username=norman6464&bg_color=0d1117cc&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&custom_title=GitHub%20Stats&rank_icon=github"
+          fi
+
       - name: Commit and push cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add profile-summary-card-output/
+          git add profile-summary-card-output/ github-stats/
           git diff --staged --quiet || {
             git commit -m "chore: update profile summary cards"
             git pull --rebase
