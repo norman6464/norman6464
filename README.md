@@ -91,7 +91,6 @@
 </p>
 
 - 🏗️ Clean Architecture（Handler → Service → Repository Interface）
-- ✅ 282+ unit tests with TDD（testify/mock）
 - 🔒 Security hardening（httpOnly JWT, WebSocket origin validation, MIME verification）
 - 📈 Observability with Prometheus/Grafana + OpenTelemetry
 - 🌍 10-language i18n support
@@ -117,7 +116,6 @@
 - 🔐 JWT（HttpOnly Cookie）× Spring Security × OIDC認証
 - 🏗️ Clean Architecture refactoring（13 UseCases + 3 Mappers）
 - 🚀 Blue/Green deploy with CodeDeploy
-- ✅ 633 frontend tests + JUnit 5 backend tests
 
 ---
 
