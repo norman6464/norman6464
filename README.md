@@ -144,5 +144,3 @@
 - 🎓 **School:** Fukuoka Design & Technology College — White Hacker Program（Graduating March 2028）
 - 🎯 **Goal:** Become a Site Reliability Engineer who designs reliable, scalable, and observable systems
 - 📍 **Location:** Fukuoka, Japan
-- 🏀 **Hobbies:** NBA Basketball, Karaoke
-- 🏆 **Achievements:** National-level recognition in Calligraphy & Basketball
