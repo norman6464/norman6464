@@ -21,15 +21,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/norman6464">
-    <img height=180 src="https://github-readme-stats-norman.vercel.app/api/pin/?username=norman6464&repo=DevSync&bg_color=0d1117cc&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" />
-  </a>
-  <a href="https://github.com/norman6464">
-    <img height=180 src="https://github-readme-stats-norman.vercel.app/api/pin/?username=norman6464&repo=FreStyle&bg_color=0d1117cc&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" />
-  </a>
-</p>
-
 ---
 
 ## 🛠️ Tech Stack
