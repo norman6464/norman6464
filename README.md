@@ -32,7 +32,7 @@
 
 <h3>🚀 Frameworks & Libraries</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=react,spring,laravel&theme=dark" height=50 />
+  <img src="https://skillicons.dev/icons?i=react,spring,laravel,fastapi&theme=dark" height=50 />
 </p>
 
 <h3>☁️ Cloud & Infrastructure</h3>
