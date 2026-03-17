@@ -23,16 +23,28 @@
 
 ---
 
+## 🏅 Awards
+
+### PR TIMES HACKATHON 2026 Spring — 個人優秀賞「動き、動かす人賞」、チーム賞
+
+> 内定直結型ハッカソンにて、技術力・ビジネス課題解決力の両面で評価され個人賞を受賞。年収550万円（中途採用基準）での内定を獲得。
+
+- 📅 2026年3月9日〜11日（3日間）
+- 🏗️ プレスリリースエディターの新機能をフルスタックで設計・実装・デプロイ
+- 🔗 **成果物:** [early_riser](https://github.com/norman6464/early_riser) — Next.js + PHP/Slim + AWS (ECS Fargate, CloudFront, RDS, Lambda) + AI機能
+
+---
+
 ## 🛠️ Tech Stack
 
 <h3>✨ Languages</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=go,java,typescript,python,&theme=dark" height=50 />
+  <img src="https://skillicons.dev/icons?i=go,java,typescript,php,python&theme=dark" height=50 />
 </p>
 
 <h3>🚀 Frameworks & Libraries</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=react,spring,fastapi&theme=dark" height=50 />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,spring,fastapi&theme=dark" height=50 />
 </p>
 
 <h3>☁️ Cloud & Infrastructure</h3>
@@ -71,6 +83,31 @@
 ---
 
 ## 🌟 Featured Projects
+
+### <a href="https://github.com/norman6464/early_riser">early_riser</a> — Press Release Editor Application
+
+> PR TIMES HACKATHON 2026 Spring 個人優秀賞受賞作品。プレスリリースの作成・編集・公開を支援するフルスタックWebアプリケーション
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudFront-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+</p>
+
+- 🏅 **PR TIMES HACKATHON 2026 Spring 個人優秀賞「動き、動かす人賞」**
+- ✏️ TipTap リッチテキストエディタ + AI校正・タイトル提案・トーン分析・チャット機能
+- ☁️ CloudFront (OAC + CF Function) → ALB → ECS Fargate / S3 Static Hosting
+- 🖼️ S3プリサインURL画像アップロード + Lambda画像最適化 (WebP変換)
+- 🔄 GitHub Actions OIDC認証による自動CI/CDパイプライン
+
+---
 
 ### <a href="https://github.com/norman6464/DevSync">DevSync</a> — Motivation Sharing Platform for Engineers
 
