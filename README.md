@@ -9,18 +9,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/norman6464">
-    <img height=180 src="https://github-readme-streak-stats.herokuapp.com/?user=norman6464&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/norman6464">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=norman6464&theme=github_dark" alt="Profile Details" />
-  </a>
-</p>
-
 ---
 
 ## 🏅 Awards
