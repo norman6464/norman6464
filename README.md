@@ -53,6 +53,10 @@
 ## 🏆 Certifications
 
 <p align="center">
+  <a href="https://www.credly.com/badges/YOUR_SAP_BADGE_ID/public_url">
+    <img src="https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS SAP" width="130">
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.credly.com/badges/d315792e-8721-4071-ac08-9343df4ecc5b/public_url">
     <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS SAA" width="130">
   </a>
