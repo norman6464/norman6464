@@ -15,8 +15,6 @@
 
 ### PR TIMES HACKATHON 2026 Spring — 個人優秀賞「動き、動かす人賞」、チーム賞
 
-> 内定直結型ハッカソンにて、技術力・ビジネス課題解決力の両面で評価され個人賞を受賞。年収550万円（中途採用基準）での内定を獲得。
-
 - 📅 2026年3月9日〜11日（3日間）
 - 🏗️ プレスリリースエディターの新機能をフルスタックで設計・実装・デプロイ
 - 🔗 **成果物:** [early_riser](https://github.com/norman6464/early_riser) — Next.js + PHP/Slim + AWS (ECS Fargate, CloudFront, RDS, Lambda) + AI機能
