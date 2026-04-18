@@ -30,7 +30,7 @@
 
 <h3>🚀 Frameworks & Libraries</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,spring,django&theme=dark" height=50 />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,spring,&theme=dark" height=50 />
 </p>
 
 <h3>☁️ Cloud & Infrastructure</h3>
