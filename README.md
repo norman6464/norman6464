@@ -11,16 +11,6 @@
 
 ---
 
-## 🏅 Awards
-
-### PR TIMES HACKATHON 2026 Spring — 個人優秀賞「動き、動かす人賞」、チーム賞
-
-- 📅 2026年3月9日〜11日（3日間）
-- 🏗️ プレスリリースエディターの新機能をフルスタックで設計・実装・デプロイ
-- 🔗 **成果物:** [early_riser](https://github.com/norman6464/early_riser) — Next.js + PHP/Slim + AWS (ECS Fargate, CloudFront, RDS, Lambda) + AI機能
-
----
-
 ## 🛠️ Tech Stack
 
 <h3>✨ Languages</h3>
@@ -73,19 +63,6 @@
 ---
 
 ## 🌟 Featured Projects
-
-### <a href="https://github.com/norman6464/early_riser">early_riser</a> — Press Release Editor Application
-
-> PR TIMES HACKATHON 2026 Spring 個人優秀賞受賞作品。プレスリリースの作成・編集・公開を支援するフルスタックWebアプリケーション
-
-
-- 🏅 **PR TIMES HACKATHON 2026 Spring 個人優秀賞「動き、動かす人賞」**
-- ✏️ TipTap リッチテキストエディタ + AI校正・タイトル提案・トーン分析・チャット機能
-- ☁️ CloudFront (OAC + CF Function) → ALB → ECS Fargate / S3 Static Hosting
-- 🖼️ S3プリサインURL画像アップロード + Lambda画像最適化 (WebP変換)
-- 🔄 GitHub Actions OIDC認証による自動CI/CDパイプライン
-
----
 
 ### <a href="https://github.com/norman6464/DevSync">DevSync</a> — Motivation Sharing Platform for Engineers
 
