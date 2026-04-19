@@ -15,12 +15,12 @@
 
 <h3>✨ Languages</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=go,java,typescript,php,python&theme=dark" height=50 />
+  <img src="https://skillicons.dev/icons?i=go,java,typescript&theme=dark" height=50 />
 </p>
 
 <h3>🚀 Frameworks & Libraries</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,spring,&theme=dark" height=50 />
+  <img src="https://skillicons.dev/icons?i=react,spring,&theme=dark" height=50 />
 </p>
 
 <h3>☁️ Cloud & Infrastructure</h3>
